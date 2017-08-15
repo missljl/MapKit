@@ -50,18 +50,5 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
-    <key>LSApplicationQueriesSchemes</key>
-    <array>
-        
-        　　 <string>baidumap</string>
-        
-        　　<string>iosamap</string>
-        
-        　　<string>comgooglemaps</string>
-        
-    </array>
-    
-    
-    
 </dict>
 </plist>
